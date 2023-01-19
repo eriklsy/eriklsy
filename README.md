@@ -7,7 +7,7 @@ How did you end up here.
 - 💬 Ask me about ...
 - 📫 How to reach me: Discord - rooks.plates#9916 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I play the piano
+- ⚡ Fun fact: I play the piano :)
 
 
 <!--
