@@ -1,13 +1,12 @@
 ### Erik's Github README
 
+## First Year Science Student (Intended Major: CS) at University of British Columbia
+
 How did you end up here.
 
 - 🔭 I’m currently working on nwHacks
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
 - 📫 How to reach me: Discord - rooks.plates#9916 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I play the piano
 
 
 <!--
