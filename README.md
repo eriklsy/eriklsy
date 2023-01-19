@@ -1,4 +1,14 @@
-### Hi there 👋
+### Erik's Github README
+
+How did you end up here.
+
+- 🔭 I’m currently working on nwHacks
+- 🌱 I’m currently learning ...
+- 💬 Ask me about ...
+- 📫 How to reach me: Discord - rooks.plates#9916 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I play the piano
+
 
 <!--
 **eriklsy/eriklsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
