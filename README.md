@@ -7,6 +7,10 @@ How did you end up here.
 - 🔭 I’m currently working on nwHacks
 - 📫 How to reach me: Discord - rooks.plates#9916 
 - 😄 Pronouns: He/Him
+<<<<<<< HEAD
+=======
+- ⚡ Fun fact: I play the piano :)
+>>>>>>> TestBranch
 
 
 <!--
