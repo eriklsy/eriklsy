@@ -4,8 +4,8 @@
 
 How did you end up here.
 
-- 🔭 I’m currently working on nwHacks :)
-- 📫 How to reach me: Discord - rooks.plates#9916 
+- 🔭 Currently working on a discord bot
+- 📫 How to reach me: Discord - rooks.plates
 - 😄 Pronouns: He/Him
 
 
