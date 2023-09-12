@@ -1,6 +1,6 @@
 ## Erik's Github README
 
-### First Year Science Student (Intended Major: CS) at University of British Columbia
+### Second Year Science Student (Major: Math) at University of British Columbia
 
 How did you end up here.
 
