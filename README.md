@@ -4,7 +4,7 @@
 
 
 - 📫 How to reach me: Discord - rooks.plates
--                      Email - erik.s.lin.2011@gmail.com
+                      Email - erik.s.lin.2011@gmail.com
 
 
 
