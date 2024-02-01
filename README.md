@@ -3,7 +3,7 @@
 ### Second Year Mathematics Student at University of British Columbia
 
 
-- 📫 How to reach me: Discord - rooks.plates
+- 📫 How to reach me: Discord - rooks.plates \
                       Email - erik.s.lin.2011@gmail.com
 
 
