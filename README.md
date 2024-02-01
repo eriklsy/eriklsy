@@ -1,12 +1,11 @@
 ## Erik's Github README
 
-### First Year Science Student (Intended Major: CS) at University of British Columbia
+### Second Year Mathematics Student at University of British Columbia
 
-How did you end up here.
 
-- 🔭 Currently working on a discord bot
 - 📫 How to reach me: Discord - rooks.plates
-- 😄 Pronouns: He/Him
+-                      Email - erik.s.lin.2011@gmail.com
+
 
 
 <!--
