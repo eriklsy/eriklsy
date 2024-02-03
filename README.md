@@ -2,7 +2,7 @@
 
 ### Second Year Mathematics Student at University of British Columbia
 
-Currently: learning full-stack React development and entering the world of Machine learning via 'Machine Learning for dummies' by John Paul Mueller and Luca Massaron \
+Currently: learning full-stack React development and entering the world of Machine learning via 'Machine Learning for dummies' by John Paul Mueller and Luca Massaron 
 
 - 📫 How to reach me: Discord - rooks.plates \
                       Email - erik.s.lin.2011@gmail.com
