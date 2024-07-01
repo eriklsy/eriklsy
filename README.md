@@ -1,6 +1,6 @@
 ## Erik's Github README
 
-### Second Year Mathematics Student at University of British Columbia
+### Third Year Computer Science Student at University of British Columbia
 
 **Currently:** Learning full-stack React development and entering the world of Machine learning via ```Machine Learning for dummies``` by <em>John Paul Mueller</em> and <em>Luca Massaron</em>.
 
