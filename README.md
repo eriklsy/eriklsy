@@ -5,7 +5,7 @@
 **Currently:** Learning full-stack React development and entering the world of Machine learning via ```Machine Learning for dummies``` by <em>John Paul Mueller</em> and <em>Luca Massaron</em>.
 
 - 📫 How to reach me: Discord - rooks.plates \
-                      Email - erik.s.lin.2011@gmail.com
+                      Email - erik.s.lin@getgosoft.com
 
 
 
