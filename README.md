@@ -2,11 +2,6 @@
 
 ### Third Year Computer Science Student at University of British Columbia
 
-**Currently:** Learning full-stack React development and entering the world of Machine learning via ```Machine Learning for dummies``` by <em>John Paul Mueller</em> and <em>Luca Massaron</em>.
-
-- 📫 How to reach me: Discord - rooks.plates \
-                      Email - erik.s.lin@getgosoft.com
-
 
 
 <!--
