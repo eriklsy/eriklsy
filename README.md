@@ -1,6 +1,6 @@
 ## Erik Lin
 
-### Incoming Systems Engineer at Rivian | Data Acquisition Lead @ UBC Formula Electric | CS @ UBC | 
+### Incoming Systems Engineer @ RVTech | Data Acquisition Lead @ UBC Formula Electric | CS @ UBC | 
 
 I love cars and building cool stuff!!! :)
 
