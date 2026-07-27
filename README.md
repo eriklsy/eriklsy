@@ -1,7 +1,8 @@
-## Erik's Github README
+## Erik Lin
 
-### Third Year Computer Science Student at University of British Columbia
+### Incoming Systems Engineer at Rivian | Data Acquisition Lead @ UBC Formula Electric | CS @ UBC | 
 
+I love cars and building cool stuff!!! :)
 
 
 <!--
